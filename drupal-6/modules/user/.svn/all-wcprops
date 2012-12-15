@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/user
+END
+user-profile.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/user/user-profile.tpl.php
+END
+user.module
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/user/user.module
+END
+user.install
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/user/user.install
+END
+user-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/user/user-rtl.css
+END
+user.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/user/user.pages.inc
+END
+user.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/user/user.css
+END
+user.info
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/user/user.info
+END
+user.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/user/user.js
+END
+user-picture.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/user/user-picture.tpl.php
+END
+user-profile-category.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/user/user-profile-category.tpl.php
+END
+user-profile-item.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/user/user-profile-item.tpl.php
+END
+user.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/user/user.admin.inc
+END

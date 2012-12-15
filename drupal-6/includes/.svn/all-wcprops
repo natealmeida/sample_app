@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes
+END
+cache-install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/cache-install.inc
+END
+install.mysql.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/install.mysql.inc
+END
+bootstrap.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/bootstrap.inc
+END
+file.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/file.inc
+END
+mail.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/mail.inc
+END
+theme.maintenance.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/theme.maintenance.inc
+END
+session.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/session.inc
+END
+install.mysqli.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/install.mysqli.inc
+END
+module.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/module.inc
+END
+common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/common.inc
+END
+database.pgsql.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/database.pgsql.inc
+END
+path.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/path.inc
+END
+database.mysql-common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/database.mysql-common.inc
+END
+actions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/actions.inc
+END
+theme.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/theme.inc
+END
+form.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/form.inc
+END
+install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/install.inc
+END
+database.mysql.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/database.mysql.inc
+END
+unicode.entities.inc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/unicode.entities.inc
+END
+image.gd.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/image.gd.inc
+END
+batch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/batch.inc
+END
+database.mysqli.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/database.mysqli.inc
+END
+image.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/image.inc
+END
+language.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/language.inc
+END
+unicode.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/unicode.inc
+END
+lock.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/lock.inc
+END
+xmlrpcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/xmlrpcs.inc
+END
+install.pgsql.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/install.pgsql.inc
+END
+lock-install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/lock-install.inc
+END
+pager.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/pager.inc
+END
+tablesort.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/tablesort.inc
+END
+locale.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/locale.inc
+END
+cache.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/cache.inc
+END
+menu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/menu.inc
+END
+database.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/database.inc
+END
+xmlrpc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/drupal/!svn/ver/991/6/tags/6.26/includes/xmlrpc.inc
+END

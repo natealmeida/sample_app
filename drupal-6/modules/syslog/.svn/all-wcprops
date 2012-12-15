@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/syslog
+END
+syslog.module
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/syslog/syslog.module
+END
+syslog.install
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/syslog/syslog.install
+END
+syslog.info
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/syslog/syslog.info
+END

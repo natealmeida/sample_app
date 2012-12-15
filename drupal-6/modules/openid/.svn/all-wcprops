@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/openid
+END
+login-bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/openid/login-bg.png
+END
+openid.module
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/openid/openid.module
+END
+openid.install
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/openid/openid.install
+END
+openid.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/openid/openid.pages.inc
+END
+openid.css
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/openid/openid.css
+END
+openid.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/openid/openid.inc
+END
+openid.info
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/openid/openid.info
+END
+xrds.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/openid/xrds.inc
+END
+openid.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/openid/openid.js
+END

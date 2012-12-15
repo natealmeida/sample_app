@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/upload
+END
+upload.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/upload/upload.admin.inc
+END
+upload.module
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/upload/upload.module
+END
+upload.install
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/upload/upload.install
+END
+upload.info
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/upload/upload.info
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/drupal/!svn/ver/991/6/tags/6.26
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/drupal/!svn/ver/991/6/tags/6.26/INSTALL.txt
+END
+COPYRIGHT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/drupal/!svn/ver/991/6/tags/6.26/COPYRIGHT.txt
+END
+robots.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/drupal/!svn/ver/991/6/tags/6.26/robots.txt
+END
+cron.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/drupal/!svn/ver/991/6/tags/6.26/cron.php
+END
+MAINTAINERS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/drupal/!svn/ver/991/6/tags/6.26/MAINTAINERS.txt
+END
+INSTALL.mysql.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/drupal/!svn/ver/991/6/tags/6.26/INSTALL.mysql.txt
+END
+xmlrpc.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/drupal/!svn/ver/991/6/tags/6.26/xmlrpc.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/drupal/!svn/ver/991/6/tags/6.26/install.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/drupal/!svn/ver/991/6/tags/6.26/index.php
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/drupal/!svn/ver/991/6/tags/6.26/LICENSE.txt
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/drupal/!svn/ver/991/6/tags/6.26/CHANGELOG.txt
+END
+UPGRADE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/drupal/!svn/ver/991/6/tags/6.26/UPGRADE.txt
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/drupal/!svn/ver/991/6/tags/6.26/update.php
+END
+INSTALL.pgsql.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/drupal/!svn/ver/991/6/tags/6.26/INSTALL.pgsql.txt
+END
+.htaccess.orig
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/drupal/!svn/ver/991/6/tags/6.26/.htaccess.orig
+END

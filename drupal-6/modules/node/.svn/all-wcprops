@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/node
+END
+node.info
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/node/node.info
+END
+node.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/node/node.admin.inc
+END
+content_types.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/node/content_types.inc
+END
+node.module
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/node/node.module
+END
+node.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/node/node.tpl.php
+END
+node.install
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/node/node.install
+END
+node-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/node/node-rtl.css
+END
+node.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/node/node.pages.inc
+END
+node.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/drupal/!svn/ver/991/6/tags/6.26/modules/node/node.css
+END
